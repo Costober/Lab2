@@ -1,4 +1,4 @@
-package com.example.lab2.ui
+package com.example.lab2.ui.theme
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
